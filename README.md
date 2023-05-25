@@ -54,8 +54,6 @@ Contributions to the program are welcome. If you find any issues or have suggest
 
 For any questions or inquiries, please contact:
 
-- [M.A.DANNOUNE Co.](mailto:contact@example.com)
+- DANNOUNE Mohamed-Amine
 
 ---
-
-Feel free to modify this README file based on your specific program and requirements.
