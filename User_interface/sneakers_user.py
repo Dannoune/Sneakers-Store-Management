@@ -1,10 +1,5 @@
 def search_sneakers():
-    file_path = "C:/Users/Admin/Desktop/C/C_exo_2/sneakers.txt"
-    import os
-
-
-    for f in os.listdir("C:/Users/Admin/Desktop/C/C_exo_2/"):
-        print(f)
+    file_path = "PATH/sneakers.txt"
     search_size = int(input("\nEnter your shoe size: "))
     search_gender = input("Enter your gender (male/female): ")
     search_brand = input("Enter the brand (Nike/Jordan): ")
