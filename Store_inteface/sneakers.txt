@@ -1,0 +1,60 @@
+Sneaker #1
+Name: Chicago Lost and Found
+Description: Jordan 1 Retro High OG
+Year: 2022
+Price: 400
+------------------------
+Sneaker #2
+Name: A Ma Maniere Violet Ore
+Description: Jordan 4 Retro
+Year: 2022
+Price: 500
+------------------------
+Sneaker #3
+Name: Travis Scott Olive
+Description: Jordan 1 Retro Low OG SP
+Year: 2022
+Price: 1000
+------------------------
+Sneaker #4
+Name: Travis Scott Reverse Mocha
+Description: Jordan 1 Retro Low OG SP
+Year: 2023
+Price: 1000
+------------------------
+Sneaker #5
+Name: Fragment x Travis Scott
+Description: Jordan 1 Retro Low OG SP
+Year: 2021
+Price: 1500
+------------------------
+Sneaker #1
+Name: Chicago Lost and Found
+Description: Jordan 1 Retro High OG
+Year: 2023
+Price: 500.00 euro
+-------------------------------------
+Sneaker #2
+Name: Travis Scott
+Description: Jordan 1 Retro Low OG SP
+Year: 2023
+Price: 1400.00 euro
+-------------------------------------
+Sneaker #1
+Name: Chicago Lost and Found
+Description: Jordan 1 Retro High OG
+Year: 2023
+Price: 500.00 euro
+-------------------------------------
+Sneaker #2
+Name: Travis Scott
+Description: Jordan 1 Retro Low OG SP
+Year: 2023
+Price: 1400.00 euro
+-------------------------------------
+Sneaker #3
+Name: Test1
+Description: desp 1
+Year: 2022
+Price: 1000.00 euro
+-------------------------------------
