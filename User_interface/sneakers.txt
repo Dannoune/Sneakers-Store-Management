@@ -1,0 +1,57 @@
+Name: Chicago Lost and Found
+Description: Jordan 1 Retro High OG
+Year: 2022
+Price: 1400.00 euro
+Brand: Nike
+Size: 40
+Gender: Male
+-------------------------------------
+Name: Travis Scott Reverse Mocha
+Description: Jordan 1 Retro Low OG SP
+Year: 2023
+Price: 1700.00 euro
+Brand: Nike
+Size: 40
+Gender: Female
+-------------------------------------
+Name: A Ma Maniere Violet Ore
+Description: Jordan 4 Retro
+Year: 2022
+Price: 1400.00 euro
+Brand: Jordan
+Size: 41
+Gender: Male
+-------------------------------------
+Name: Fragment x Travis Scott
+Description: Jordan 1 Retro Low OG SP
+Year: 2022
+Price: 1400.00 euro
+Brand: Nike
+Size: 40
+Gender: Female
+-------------------------------------
+Name: Travis Scott Black Phantom
+Description: Jordan 1 Retro Low OG SP
+Year: 2027
+Price: 1200.00 euro
+Brand: Nike
+Size: 41
+Gender: Male
+-------------------------------------
+Name: Jarritos
+Description: Nike SB Dunk Low
+Year: 2023
+Price: 400.00 euro
+Brand: Jordan
+Size: 43
+Gender: Male
+-------------------------------------
+Name: Jarritos
+Description: Nike SB Dunk Low
+Year: 2023
+Price: 400.00 euro
+Brand: Jordan
+Size: 43
+Gender: Male
+-------------------------------------
+
